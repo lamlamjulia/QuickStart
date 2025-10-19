@@ -1,10 +1,10 @@
-package com.fluffy.quickstart;
+package com.fluffy.noteapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuickstartApplicationTests {
+class NoteAppTests {
 
 	@Test
 	void contextLoads() {
